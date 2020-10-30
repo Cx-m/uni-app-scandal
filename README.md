@@ -1,2 +1,1 @@
-# hello-world
-come on babym!
+# uni-app仿糗事百科
