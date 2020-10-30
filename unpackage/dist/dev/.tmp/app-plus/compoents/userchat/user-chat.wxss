@@ -1,0 +1,25 @@
+
+.user-chat-input.data-v-f5ca9c8a{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 120rpx;
+	border-top: 1px solid #EEEEEE;
+	padding: 0 20rpx;
+	background: #FFFFFF;
+}
+.user-chat-input>input.data-v-f5ca9c8a{
+	-webkit-box-flex: 1;
+	-webkit-flex: 1;
+	        flex: 1;
+	background: #F7F7F7;
+	margin-right: 20rpx;
+	padding: 10rpx 20rpx;
+	border-radius: 10rpx;
+}
+.user-chat-input>view.data-v-f5ca9c8a{
+	width: 80rpx;
+	font-size: 45rpx;
+}
+

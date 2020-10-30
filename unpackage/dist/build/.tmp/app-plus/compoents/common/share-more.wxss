@@ -1,0 +1,231 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 分享 */
+.share-more.data-v-10796c7d{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	background: #FFFFFF;
+	z-index: 999;
+}
+.share-hover.data-v-10796c7d{
+	background: #EEEEEE;
+}
+.share-mask.data-v-10796c7d{
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: 998;
+	background: rgba(0, 0, 0, 0.4);
+}
+.share-more-title.data-v-10796c7d,.share-more-bottom.data-v-10796c7d{
+	font-size: 35rpx;
+	padding: 25rpx;
+	font-weight: bold;
+}
+.share-more-body.data-v-10796c7d{
+	border-bottom: 1rpx solid #EEEEEE;
+	white-space: nowrap;
+	width: 100%;
+	height: 200rpx;
+}
+.share-more-item.data-v-10796c7d{
+	display: -webkit-inline-box;
+	display: -webkit-inline-flex;
+	display: inline-flex;
+    width: 25%;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	height: 100%;
+}
+.share-more-item>view.data-v-10796c7d:first-child{
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 100%;
+	font-size: 55rpx;
+	color: #FFFFFF;
+}
+.share-more-item>view.data-v-10796c7d:last-child{
+	color: #7B7B7B;
+}
+.backgweixin.data-v-10796c7d{background: #2AD19B;}
+.backgquan.data-v-10796c7d{background: #514D4C;}
+.backgweibo.data-v-10796c7d{background: #EE5E5E;}
+.backgqq.data-v-10796c7d{background: #5280CE;}	
+

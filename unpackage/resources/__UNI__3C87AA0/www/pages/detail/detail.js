@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\n.",[1],"u-comment { padding: 0 ",[0,20],"; }\n.",[1],"common-list-title { font-size: ",[0,30],"; font-weight: bold; padding: ",[0,20],"; }\n",],undefined,{path:"./pages/detail/detail.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/detail/detail.wxml') } }));

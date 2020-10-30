@@ -1,0 +1,28 @@
+
+.home-big>view.data-v-d070b3ae{
+	padding: 20rpx;
+	border-bottom: 1rpx solid #F4F4F4;
+}
+.home-list-item>view.data-v-d070b3ae{
+	font-size: 32rpx;
+}
+.home-list-item>view:nth-child(1)>view.data-v-d070b3ae{
+	margin-right: 15rpx;
+}
+.home-list-item .icon-liulan.data-v-d070b3ae{
+	color: #44B3FF;
+	font-size: 35rpx;
+}
+.home-list-item .icon-huiyuanvip.data-v-d070b3ae{
+	color: #FF7434;
+	font-size: 35rpx;
+}
+.home-list-item .icon-keyboard.data-v-d070b3ae{
+	color: #48B5FF;
+	font-size: 35rpx;
+}
+.home-list-item-hover.data-v-d070b3ae{
+	background: #EEEEEE;
+	border-radius: 3rpx;
+}	
+

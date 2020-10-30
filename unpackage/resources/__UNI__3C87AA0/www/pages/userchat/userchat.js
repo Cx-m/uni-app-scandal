@@ -1,0 +1,2 @@
+setCssToHead([],undefined,{path:"./pages/userchat/userchat.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/userchat/userchat.wxml') } }));

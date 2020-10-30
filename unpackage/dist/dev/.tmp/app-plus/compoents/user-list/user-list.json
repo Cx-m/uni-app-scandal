@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "tag-sex": "/compoents/common/tag-sex"
+  }
+}

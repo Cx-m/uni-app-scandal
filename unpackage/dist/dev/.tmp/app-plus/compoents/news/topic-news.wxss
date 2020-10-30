@@ -1,0 +1,40 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*热门样式*/
+.remen.data-v-3961ea30{padding: 0 25rpx;border-bottom: 1px solid #EEEEEE;border-top: 1px solid #EEEEEE;}
+.remen-one>view.data-v-3961ea30:first-child{font-size: 30rpx; font-family: "宋体","SimSun";}
+.remen-one>view.data-v-3961ea30:last-child{font-size: 30rpx;color: #D6D6D6;}
+.remen-two.data-v-3961ea30{padding: 30rpx 0;}
+.remen-two>view.data-v-3961ea30{padding: 3rpx 16rpx;background: #F7F7F7;
+color: #9F9F9F;border-radius: 8rpx;margin-left: 15rpx;margin-right: 15rpx;}
+

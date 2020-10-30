@@ -1,0 +1,18 @@
+{
+  "navigationBarTitleText": "我的",
+  "scrollIndicator": "none",
+  "bounce": "none",
+  "titleNView": {
+    "buttons": [
+      {
+        "type": "menu"
+      }
+    ]
+  },
+  "usingComponents": {
+    "home-list": "/compoents/home/home-list",
+    "home-info": "/compoents/home/home-info",
+    "home-other-login": "/compoents/home/home-other-login",
+    "home-data": "/compoents/home/home-data"
+  }
+}

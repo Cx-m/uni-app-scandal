@@ -1,0 +1,12 @@
+
+.body{
+	padding: 0 20rpx;
+}
+.body>button{
+	width: 100%;
+	background: #FFE933;
+	border: none!important;
+	margin: 50rpx 0;
+	color: #333333;
+}
+

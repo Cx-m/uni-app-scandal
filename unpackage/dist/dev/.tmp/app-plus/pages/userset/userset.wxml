@@ -1,0 +1,1 @@
+<view class="body"><block wx:for="{{homelist}}" wx:for-item="item" wx:for-index="index" wx:key="index"><block><home-list vue-id="{{'02482750-1-'+index}}" item="{{item}}" bind:__l="__l"></home-list></block></block><button type="primary">退出登录</button></view>

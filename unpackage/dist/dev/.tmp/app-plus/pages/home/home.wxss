@@ -1,0 +1,21 @@
+
+.home-nologin-title{
+	font-size: 32rpx;
+}
+.home-password{
+	font-size: 29rpx;
+}
+.home-password>view{
+	color: #D5D5D5;
+}
+.home-adv{
+	padding: 20rpx;
+}
+.home-adv>image{
+	border-radius: 20rpx;
+	height: 150rpx;
+}
+.home-list{
+	padding: 20rpx 40rpx;
+}
+

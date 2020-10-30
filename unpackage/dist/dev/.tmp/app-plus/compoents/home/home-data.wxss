@@ -1,0 +1,13 @@
+
+.home-data.data-v-9b950196{
+	padding: 30rpx;
+}
+.home-data>view.data-v-9b950196{
+	color: #999999;
+}
+.home-data>view>text.data-v-9b950196{
+	color: #343434;
+	font-size: 33rpx;
+	font-weight: bold;
+}	
+

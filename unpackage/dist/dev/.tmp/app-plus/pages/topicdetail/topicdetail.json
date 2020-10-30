@@ -1,0 +1,19 @@
+{
+  "scrollIndicator": "none",
+  "titleNView": {
+    "titleText": "话题详情",
+    "type": "transparent",
+    "buttons": [
+      {
+        "type": "menu"
+      }
+    ]
+  },
+  "bounce": "none",
+  "usingComponents": {
+    "to-pic": "/compoents/topic/topic",
+    "swiper-head": "/compoents/index/swiper-head",
+    "comon-news": "/compoents/common/comon-news",
+    "load-more": "/compoents/common/load-more"
+  }
+}

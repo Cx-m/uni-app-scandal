@@ -1,0 +1,8 @@
+{
+  "titleNView": false,
+  "usingComponents": {
+    "uni-nav-bar": "/compoents/uni-nav-bar/uni-nav-bar",
+    "upload-image": "/compoents/common/upload-image",
+    "uni-popup": "/compoents/uni-popup/uni-popup"
+  }
+}

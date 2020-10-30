@@ -1,0 +1,22 @@
+{
+  "bounce": "none",
+  "titleNView": {
+    "titleText": "话题分类",
+    "autoBackButton": "false",
+    "buttons": [
+      {
+        "color": "#333",
+        "float": "left",
+        "fontSize": "22px",
+        "fontSrc": "/static/font/icon.ttf",
+        "text": ""
+      }
+    ]
+  },
+  "usingComponents": {
+    "swiper-head": "/compoents/index/swiper-head",
+    "load-more": "/compoents/common/load-more",
+    "no-thing": "/compoents/common/no-thing",
+    "topic-list": "/compoents/news/topic-list"
+  }
+}

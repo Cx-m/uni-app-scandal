@@ -1,0 +1,36 @@
+
+.zhezhao.data-v-829719b6{
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	z-index: 998;
+}
+.poptanchu.data-v-829719b6{
+	position: fixed;
+	right: 0;
+	top: 0;
+	width: 40%;
+	background: #FFFFFF;
+	box-shadow: 0rpx 0rpx 20rpx #CCCCCC;
+	z-index: 999;
+}
+.poptanchu-friends.data-v-829719b6{
+	padding: 20rpx 25rpx;
+}
+.poptanchu-friends>view.data-v-829719b6{
+	font-weight: bold;
+	font-size: 30rpx;
+}
+.poptanchu-friends>view.data-v-829719b6:nth-child(2){margin-left: 20rpx;}
+.poptanchu-clear.data-v-829719b6{
+	padding: 20rpx 25rpx;
+}
+.poptanchu-clear>view.data-v-829719b6{
+	font-weight: bold;
+	font-size: 30rpx;
+}
+.poptanchu-clear>view.data-v-829719b6:nth-child(2){margin-left: 20rpx;}
+.activehover.data-v-829719b6{background: #F7F7F7;}
+

@@ -1,0 +1,26 @@
+
+.widthatch{
+	margin: 0 auto;
+	padding-right: 20rpx;
+	color: #010101;
+	font-weight: bold;
+	font-size: 32rpx;
+}
+.gonggao{
+	width: 500rpx;
+	background-color: #FFFFFF;
+	border-radius: 10rpx;
+	padding: 30rpx 40rpx;
+}
+.gonggao image{
+	width: 50%;
+}
+.gonggao button{
+	background-color: #FFE934;
+	margin-top: 40rpx;
+	border-radius: 10rpx;
+}
+.zhuyi{
+	text-align: left;
+}
+

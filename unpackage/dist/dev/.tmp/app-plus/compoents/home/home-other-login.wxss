@@ -1,0 +1,15 @@
+
+.other-login.data-v-44916c9e{
+	padding: 40rpx 80rpx;
+}
+.other-login>view>view.data-v-44916c9e{
+	width: 100rpx;
+	height: 100rpx;
+	border-radius: 100%;
+	font-size: 55rpx;
+	color: #FFFFFF;
+}
+.other-login .icon-weixin.data-v-44916c9e{background: #2BD19B;}
+.other-login .icon-xinlangweibo.data-v-44916c9e{background: #2CAEFC;}
+.other-login .icon-QQ.data-v-44916c9e{background: #FC7729;}
+

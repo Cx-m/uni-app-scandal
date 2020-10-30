@@ -1,0 +1,14 @@
+
+.nvcolor.data-v-192c56c8{
+	background-color: #FF698D!important;
+}
+.common-list-right-one.data-v-192c56c8{
+	    color: #FFFFFF;
+		font-size: 25rpx;
+		background-color: #44B3FF;
+		padding: 0 15rpx;
+		margin-left: 10rpx;
+		border-radius: 50rpx;
+		height: 35rpx;
+}
+
